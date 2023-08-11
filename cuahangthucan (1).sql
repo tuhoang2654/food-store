@@ -47,7 +47,7 @@ CREATE TABLE `donhang` (
 --
 
 INSERT INTO `donhang` (`MaDh`, `MaKh`, `TenKh`, `TongTien`, `TinhTrang`, `ThoiGianDatHang`, `HinhThucVanChuyen`, `HinhThucThanhToan`) VALUES
-(1, 2, 'Nguyễn Hiếu Bảo', 597000, 'đã giao', '2019-05-14 11:41:21', 'Xe máy', 'Trực tiếp'),
+(1, 2, 'Hoàng Anh Tú', 597000, 'đã giao', '2019-05-14 11:41:21', 'Xe máy', 'Trực tiếp'),
 (2, 4, 'Lê Thị A', 217000, 'đang giao', '2019-05-14 14:27:19', 'Xe máy', 'Trực tiếp'),
 (3, 2, 'Nguyễn Văn A', 1154000, 'chưa', '2019-05-14 23:47:57', 'Xe đạp', 'Ngân hàng'),
 (4, 7, 'abcdsadas', 260000, 'đã giao', '2019-05-15 19:23:19', 'Xe máy', 'Trực tiếp'),
