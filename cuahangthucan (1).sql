@@ -93,14 +93,14 @@ CREATE TABLE `khachhang` (
 --
 
 INSERT INTO `khachhang` (`MaKh`, `HoTen`, `Email`, `TaiKhoan`, `MatKhau`, `DiaChi`, `GioiTinh`, `NgaySinh`, `DienThoai`, `TrangThai`, `VaiTro`) VALUES
-(1, 'Nguyễn Bảo', 'nguyenhieubaoit@gmail.com', 'admin', '21232f297a57a5a743894a0e4a801fc3', 'tphcm', 'Nam', '01/01/1999hjkhjk', '0123456789', 1, 2),
-(2, 'Nguyễn Hiếu Bảo', 'nguyenhieubao2606@gmail.com', 'avatar', 'e10adc3949ba59abbe56e057f20f883e', 'tphcm', 'Nam', '24/07/1999', '0123456789', 1, 0),
-(3, 'Nguyễn Hiếu Bảo', 'nguyenhieubao2407@gmail.com', 'manager', '1d0258c2440a8d19e716292b231e3190', 'tphcm', 'Nam', '01/01/1999', '0236547811', 1, 1),
-(4, 'Nguyễn Hiếu Bảo', 'lethia@gmail.com', 'enduser', 'ffc1254d735927c3de44dfc0365e2ba0', 'Thành phố Hồ Chí Minh', 'nam', '02/02/2000', '0321654989', 1, 0),
-(5, 'Trần Văn C', 'nguyenhieubao1234@gmail.com', 'avatarag0p', 'd3636343c0895d207ad200214c1198d6', '', 'Nam', '', '0359874102', 1, 0),
-(6, 'nguyễn thị c', 'nguyenthic@gmail.com', 'comehere', '0ebd88da86bc4c5a4ba34d4d78fd1637', 'q1-tphcm', 'Nữ', '03.03.2000', '0987654321', 1, 0),
-(7, 'abc', 'abc@gmail.com', 'avatar123', 'e10adc3949ba59abbe56e057f20f883e', '', 'Nam', '', '5654645645', 1, 0),
-(8, 'Nguyễn Văn B', 'abcd@gmail.com', 'postman', '03d476861afd384510f2cb80ccfa8511', 'tphcm', 'Nam', '01/02/2000', '0258796413', 1, 3);
+(1, 'Hoàng Anh Tú', 'tuhoang@gmail.com', 'admin', '21232f297a57a5a743894a0e4a801fc3', 'hanoi', 'Nam', '26/05/2004', '0123456789', 1, 2),
+(2, 'Hoàng Anh Tú', 'hoanganhtu@gmail.com', 'avatar', 'e10adc3949ba59abbe56e057f20f883e', 'hanoi', 'Nam', '24/07/2004', '0123456789', 1, 0),
+(3, 'Hoàng Anh Tú', 'hoanganhtu@gmail.com', 'manager', '1d0258c2440a8d19e716292b231e3190', 'hanoi', 'Nam', '01/01/2004', '0236547811', 1, 1),
+(4, 'Hoàng Anh Tú', 'khachhang@gmail.com', 'enduser', 'ffc1254d735927c3de44dfc0365e2ba0', 'Hà Nội', 'nam', '02/02/2004', '0321654989', 1, 0),
+(5, 'Trần Văn C', 'tu1234@gmail.com', 'avatarag0p', 'd3636343c0895d207ad200214c1198d6', 'Sì gòn', 'Nam', '', '0359874102', 1, 0),
+(6, 'nguyễn thị linh', 'nguyenthilinh@gmail.com', 'comehere', '0ebd88da86bc4c5a4ba34d4d78fd1637', 'Tây Hồ - Hà Nội', 'Nữ', '03/03/2000', '0987654321', 1, 0),
+(7, 'abc', 'abc@gmail.com', 'avatar123', 'e10adc3949ba59abbe56e057f20f883e', '', 'Nam', '25/04/2004', '5654645645', 1, 0),
+(8, 'Nguyễn Văn B', 'abcd@gmail.com', 'postman', '03d476861afd384510f2cb80ccfa8511', 'Hà Nội', 'Nam', '01/02/2000', '0258796413', 1, 3);
 
 -- --------------------------------------------------------
 
