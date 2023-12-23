@@ -47,26 +47,26 @@ CREATE TABLE `donhang` (
 --
 
 INSERT INTO `donhang` (`MaDh`, `MaKh`, `TenKh`, `TongTien`, `TinhTrang`, `ThoiGianDatHang`, `HinhThucVanChuyen`, `HinhThucThanhToan`) VALUES
-(1, 2, 'Hoàng Anh Tú', 597000, 'đã giao', '2019-05-14 11:41:21', 'Xe máy', 'Trực tiếp'),
-(2, 4, 'Lê Thị A', 217000, 'đang giao', '2019-05-14 14:27:19', 'Xe máy', 'Trực tiếp'),
-(3, 2, 'Nguyễn Văn A', 1154000, 'chưa', '2019-05-14 23:47:57', 'Xe đạp', 'Ngân hàng'),
-(4, 7, 'abcdsadas', 260000, 'đã giao', '2019-05-15 19:23:19', 'Xe máy', 'Trực tiếp'),
-(5, 7, 'abc', 299000, 'chưa', '2019-05-15 19:23:55', 'Xe máy', 'Ngân hàng'),
-(6, 4, 'Lê Thị A', 1765000, 'chưa', '2020-06-01 11:56:54', 'Xe máy', 'Trực tiếp'),
-(7, 4, 'Lê Thị A', 325000, 'chưa', '2020-06-01 12:19:31', 'Xe máy', 'Trực tiếp'),
-(8, 4, 'Lê Thị A', 386050, 'chưa', '2020-06-08 14:27:04', 'Xe máy', 'Trực tiếp'),
-(9, 4, 'Lê Thị A', 597150, 'chưa', '2020-06-08 14:35:02', 'Xe máy', 'Trực tiếp'),
-(10, 4, 'Lê Thị A', 408100, 'chưa', '2020-06-08 14:37:25', 'Xe máy', 'Trực tiếp'),
-(11, 4, 'Lê Thị A', 408100, 'chưa', '2020-06-08 14:41:11', 'Xe máy', 'Trực tiếp'),
-(12, 4, 'Lê Thị A', 408100, 'chưa', '2020-06-08 14:43:26', 'Xe máy', 'Trực tiếp'),
-(13, 4, 'Lê Thị A', 408100, 'chưa', '2020-06-08 14:44:38', 'Xe máy', 'Trực tiếp'),
-(14, 4, 'Lê Thị A', 756700, 'chưa', '2020-06-08 14:51:23', 'Xe máy', 'Trực tiếp'),
-(15, 4, 'Lê Thị A', 207000, 'chưa', '2020-06-08 14:53:05', 'Xe máy', 'Trực tiếp'),
-(16, 4, 'Lê Thị A', 284000, 'chưa', '2020-06-08 17:24:29', 'Xe máy', 'Trực tiếp'),
-(17, 4, 'Lê Thị A', 225000, 'chưa', '2020-06-08 17:25:22', 'Xe máy', 'Trực tiếp'),
-(18, 4, 'Lê Thị A', 166000, 'chưa', '2020-06-08 17:27:19', 'Xe máy', 'Trực tiếp'),
-(19, 4, 'Lê Thị A', 275000, 'chưa', '2020-06-08 17:42:40', 'Xe máy', 'Trực tiếp'),
-(21, 8, 'Nguyễn Văn B', 219000, 'chưa', '2020-06-13 22:32:35', 'Xe máy', 'Trực tiếp');
+(1, 2, 'Hoàng Anh Tú', 597000, 'đã giao', '2023-05-14 11:41:21', 'Xe máy', 'Trực tiếp'),
+(2, 4, 'Lê Thị A', 217000, 'đang giao', '2023-05-14 14:27:19', 'Xe máy', 'Trực tiếp'),
+(3, 2, 'Nguyễn Văn A', 1154000, 'chưa', '2023-05-14 23:47:57', 'Xe đạp', 'Ngân hàng'),
+(4, 7, 'abcdsadas', 260000, 'đã giao', '2023-05-15 19:23:19', 'Xe máy', 'Trực tiếp'),
+(5, 7, 'abc', 299000, 'chưa', '2023-05-15 19:23:55', 'Xe máy', 'Ngân hàng'),
+(6, 4, 'Lê Thị A', 1765000, 'chưa', '2023-06-01 11:56:54', 'Xe máy', 'Trực tiếp'),
+(7, 4, 'Lê Thị A', 325000, 'chưa', '2023-06-01 12:19:31', 'Xe máy', 'Trực tiếp'),
+(8, 4, 'Lê Thị A', 386050, 'chưa', '2023-06-08 14:27:04', 'Xe máy', 'Trực tiếp'),
+(9, 4, 'Lê Thị A', 597150, 'chưa', '2023-06-08 14:35:02', 'Xe máy', 'Trực tiếp'),
+(10, 4, 'Lê Thị A', 408100, 'chưa', '2023-06-08 14:37:25', 'Xe máy', 'Trực tiếp'),
+(11, 4, 'Lê Thị A', 408100, 'chưa', '2023-06-08 14:41:11', 'Xe máy', 'Trực tiếp'),
+(12, 4, 'Lê Thị A', 408100, 'chưa', '2023-06-08 14:43:26', 'Xe máy', 'Trực tiếp'),
+(13, 4, 'Lê Thị A', 408100, 'chưa', '2023-06-08 14:44:38', 'Xe máy', 'Trực tiếp'),
+(14, 4, 'Lê Thị A', 756700, 'chưa', '2023-06-08 14:51:23', 'Xe máy', 'Trực tiếp'),
+(15, 4, 'Lê Thị A', 207000, 'chưa', '2023-06-08 14:53:05', 'Xe máy', 'Trực tiếp'),
+(16, 4, 'Lê Thị A', 284000, 'chưa', '2023-06-08 17:24:29', 'Xe máy', 'Trực tiếp'),
+(17, 4, 'Lê Thị A', 225000, 'chưa', '2023-06-08 17:25:22', 'Xe máy', 'Trực tiếp'),
+(18, 4, 'Lê Thị A', 166000, 'chưa', '2023-06-08 17:27:19', 'Xe máy', 'Trực tiếp'),
+(19, 4, 'Lê Thị A', 275000, 'chưa', '2023-06-08 17:42:40', 'Xe máy', 'Trực tiếp'),
+(21, 8, 'Nguyễn Văn B', 219000, 'chưa', '2023-06-13 22:32:35', 'Xe máy', 'Trực tiếp');
 
 -- --------------------------------------------------------
 
@@ -97,7 +97,7 @@ INSERT INTO `khachhang` (`MaKh`, `HoTen`, `Email`, `TaiKhoan`, `MatKhau`, `DiaCh
 (2, 'Hoàng Anh Tú', 'hoanganhtu@gmail.com', 'avatar', 'e10adc3949ba59abbe56e057f20f883e', 'hanoi', 'Nam', '24/07/2004', '0123456789', 1, 0),
 (3, 'Hoàng Anh Tú', 'hoanganhtu@gmail.com', 'manager', '1d0258c2440a8d19e716292b231e3190', 'hanoi', 'Nam', '01/01/2004', '0236547811', 1, 1),
 (4, 'Hoàng Anh Tú', 'khachhang@gmail.com', 'enduser', 'ffc1254d735927c3de44dfc0365e2ba0', 'Hà Nội', 'nam', '02/02/2004', '0321654989', 1, 0),
-(5, 'Trần Văn C', 'tu1234@gmail.com', 'avatarag0p', 'd3636343c0895d207ad200214c1198d6', 'Sì gòn', 'Nam', '', '0359874102', 1, 0),
+(5, 'Trần Văn C', 'tu1234@gmail.com', 'avatarag0p', 'd3636343c0895d207ad200214c1198d6', 'Sì gòn', 'Nam', '02/02/2004', '0359874102', 1, 0),
 (6, 'nguyễn thị linh', 'nguyenthilinh@gmail.com', 'comehere', '0ebd88da86bc4c5a4ba34d4d78fd1637', 'Tây Hồ - Hà Nội', 'Nữ', '03/03/2000', '0987654321', 1, 0),
 (7, 'abc', 'abc@gmail.com', 'avatar123', 'e10adc3949ba59abbe56e057f20f883e', '', 'Nam', '25/04/2004', '5654645645', 1, 0),
 (8, 'Nguyễn Văn B', 'abcd@gmail.com', 'postman', '03d476861afd384510f2cb80ccfa8511', 'Hà Nội', 'Nam', '01/02/2000', '0258796413', 1, 3);
@@ -121,7 +121,7 @@ CREATE TABLE `khachhangnhanhang` (
 --
 
 INSERT INTO `khachhangnhanhang` (`Makh`, `MaDh`, `HoTen`, `DienThoai`, `DiaChi`) VALUES
-(2, 1, 'Nguyễn Hiếu Bảo', '0123456789', 'hanoi'),
+(2, 1, 'Nguyễn Thị Nhung', '0123456789', 'hanoi'),
 (4, 2, 'Lê Thị A', '0321654987', 'hanoi'),
 (2, 3, 'Nguyễn Văn A', '0321659874', 'hanoi'),
 (7, 4, 'abcdsadas', '0372262406', 'hanoi'),
@@ -130,18 +130,18 @@ INSERT INTO `khachhangnhanhang` (`Makh`, `MaDh`, `HoTen`, `DienThoai`, `DiaChi`)
 (4, 7, 'Lê Thị A', '0321654987', 'hanoi'),
 (4, 8, 'Lê Thị A', '0321654987', 'hanoi'),
 (4, 9, 'Lê Thị A', '0321654987', 'hanoi'),
-(4, 10, 'Lê Thị A', '0321654987', 'q5-tphcm'),
-(4, 11, 'Lê Thị A', '0321654987', 'q5-tphcm'),
-(4, 12, 'Lê Thị A', '0321654987', 'q5-tphcm'),
-(4, 13, 'Lê Thị A', '0321654987', 'q5-tphcm'),
-(4, 14, 'Lê Thị A', '0321654987', 'q5-tphcm'),
-(4, 15, 'Lê Thị A', '0321654987', 'q5-tphcm'),
-(4, 16, 'Lê Thị A', '0321654987', 'q5-tphcm'),
-(4, 17, 'Lê Thị A', '0321654987', 'q5-tphcm'),
-(4, 18, 'Lê Thị A', '0321654987', 'q5-tphcm'),
-(4, 19, 'Lê Thị A', '0321654987', 'q5-tphcm'),
-(8, 20, 'Nguyễn Văn B', '0258796413', 'tphcm'),
-(8, 21, 'Nguyễn Văn B', '0258796413', 'tphcm');
+(4, 10, 'Lê Thị A', '0321654987', 'đống đa'),
+(4, 11, 'Lê Thị A', '0321654987', 'ba đình'),
+(4, 12, 'Lê Thị A', '0321654987', 'thanh xuân'),
+(4, 13, 'Lê Thị A', '0321654987', 'cát linh'),
+(4, 14, 'Lê Thị A', '0321654987', 'hà đông'),
+(4, 15, 'Lê Thị A', '0321654987', 'hcm'),
+(4, 16, 'Lê Thị A', '0321654987', 'hcm'),
+(4, 17, 'Lê Thị A', '0321654987', 'tphcm'),
+(4, 18, 'Lê Thị A', '0321654987', 'hcm'),
+(4, 19, 'Lê Thị A', '0321654987', 'hcm'),
+(8, 20, 'Nguyễn Văn B', '0258796413', 'hcm'),
+(8, 21, 'Nguyễn Văn B', '0258796413', 'hcm');
 
 -- --------------------------------------------------------
 
@@ -163,7 +163,7 @@ CREATE TABLE `khuyenmai` (
 --
 
 INSERT INTO `khuyenmai` (`makm`, `tieude`, `giatrikhuyenmai`, `thoigianbatdau`, `thoigianketthuc`, `tinhtrang`) VALUES
-(1, 'Giảm giá sốc', 6, '2020-06-07T16:44', '2020-06-14T16:44', 1);
+(1, 'Giảm giá sốc', 6, '2023-06-07T16:44', '2023-06-14T16:44', 1);
 
 -- --------------------------------------------------------
 
@@ -186,8 +186,8 @@ CREATE TABLE `phanhoi` (
 --
 
 INSERT INTO `phanhoi` (`mapt`, `hoten`, `email`, `dienthoai`, `noidung`, `tinhtrang`, `thoigian`) VALUES
-(1, 'Nguyễn hiếu bảo', 'enduser@gmail.com', '01236549877', 'Rất tốt. Tôi rất hài lòng', 'đã giải quyết', '2020-06-07'),
-(2, 'Bảo Nguyễn', 'nhb@gmail.com', '0258963147', 'Cần bổ sung', 'đã giải quyết', '2020-06-07 15:10:24');
+(1, 'Nguyễn Khắc Huy', 'enduser@gmail.com', '01236549877', 'Rất tốt. Tôi rất hài lòng', 'đã giải quyết', '2023-06-07'),
+(2, 'Nguyễn Chí Hướng', 'nch@gmail.com', '0258963147', 'Cần bổ sung', 'đã giải quyết', '2023-06-07 15:10:24');
 
 -- --------------------------------------------------------
 
@@ -346,7 +346,6 @@ INSERT INTO `sanphamtrongdonhang` (`Masp`, `Madh`, `Tensp`, `Gia`, `SoLuong`, `T
 (24080, 18, 'Tomato sp', 68000, 2, 136000, 'IMAGES/my_xao_thap_cam_large.jpg'),
 (24080, 19, 'Tomato sp', 68000, 1, 68000, 'IMAGES/my_xao_thap_cam_large.jpg'),
 (24079, 19, 'Xà lách trộn kiểu Nga', 59000, 3, 177000, 'IMAGES/salad_thit_nuong_vi_large.jpg'),
-(24106, 20, '', 0, 1, 0, ''),
 (24079, 20, 'Xà lách trộn kiểu Nga', 55460, 2, 110920, 'IMAGES/salad_thit_nuong_vi_large.jpg'),
 (24104, 20, 'pizza rau củ', 160000, 1, 160000, 'IMAGES/pizza_lap_xuong_large.jpg'),
 (24108, 21, 'pizza thập cẩm', 189000, 1, 189000, 'IMAGES/03_large.jpg');
@@ -372,11 +371,11 @@ CREATE TABLE `tintuc` (
 --
 
 INSERT INTO `tintuc` (`matt`, `tieude`, `noidung`, `thoigiandang`, `hinhanh`, `manv`, `tinhtrang`) VALUES
-(3, 'Khuyến mãi thứ 2, thứ 6 hàng tuần', '						      								      		 Áp dụng cho thứ 2, thứ 4, thứ 6 hàng tuần\r\n Áp dụng cho các hình thức: giao bánh và mang về\r\nKhông áp dụng ngày lễ, tết						      						      ', '2020-06-07', 'IMAGES/sup_cua_large.jpg', 8, 1),
-(4, 'Khuyến mãi thứ 3, thứ 5 hàng tuần', '						      								      								      								      		Áp dụng cho ngày thứ 3 và thứ 5 hàng tuần\r\n    Áp dụng cho các hình thức: giao bánh và mang về\r\n    Không áp dụng ngày lễ, tết						      						      						      						      ', '2020-06-07', 'IMAGES/banh_phu_socola_large.jpg', 8, 1),
-(7, 'Tặng 1 bánh pizza miễn phí cho ngày sinh nhật của bạn', '						      								      		Tặng 1 pizza cỡ M (áp dụng cho tất cả các loại pizza trừ số 3, 11 và 12)\r\n    Quý khách vui lòng mang theo chứng minh thư nhân dân hoặc các giấy tờ tương đương thể hiện ngày sinh nhật trùng với ngày nhận bánh\r\n    Mỗi khách hàng chỉ được nhận 1 bánh tặng miễn phí\r\n    Chỉ áp dụng với các đơn hàng có giá trị trên 250.000đ\r\n    Cửa hàng tặng miễn phí tối đa 10 bánh/ 1 ngày cho 10 người đăng kí đầu tiên						      						      ', '2020-06-07', 'IMAGES/pizza_lap_xuong_large.jpg', 8, 1),
-(8, 'Ăn cực ngon với Vie Food', '						      								      								      		Món ăn đa dạng, thực phẩm đạt chỉ tiêu dinh dưỡng cũng như an toàn thực phẩm. Hãy cùng gia đình và người thân đến Vie Food. Chúng tôi sẽ không làm bạn thất vọng.						      						      						      ', '2020-06-07', 'IMAGES/04_large.jpg', 8, 1),
-(9, 'Thực phẩm mới', 'Nhiều thực phẩm mới sẽ ra mắt trong 2020.Các bạn cùng nhau chờ đón nhé.', '2020-06-07', 'IMAGES/09_large.jpg', 8, 1);
+(3, 'Khuyến mãi thứ 2, thứ 6 hàng tuần', '						      								      		 Áp dụng cho thứ 2, thứ 4, thứ 6 hàng tuần\r\n Áp dụng cho các hình thức: giao bánh và mang về\r\nKhông áp dụng ngày lễ, tết						      						      ', '2023-06-07', 'IMAGES/sup_cua_large.jpg', 8, 1),
+(4, 'Khuyến mãi thứ 3, thứ 5 hàng tuần', '						      								      								      								      		Áp dụng cho ngày thứ 3 và thứ 5 hàng tuần\r\n    Áp dụng cho các hình thức: giao bánh và mang về\r\n    Không áp dụng ngày lễ, tết						      						      						      						      ', '2023-06-07', 'IMAGES/banh_phu_socola_large.jpg', 8, 1),
+(7, 'Tặng 1 bánh pizza miễn phí cho ngày sinh nhật của bạn', '						      								      		Tặng 1 pizza cỡ M (áp dụng cho tất cả các loại pizza trừ số 3, 11 và 12)\r\n    Quý khách vui lòng mang theo chứng minh thư nhân dân hoặc các giấy tờ tương đương thể hiện ngày sinh nhật trùng với ngày nhận bánh\r\n    Mỗi khách hàng chỉ được nhận 1 bánh tặng miễn phí\r\n    Chỉ áp dụng với các đơn hàng có giá trị trên 250.000đ\r\n    Cửa hàng tặng miễn phí tối đa 10 bánh/ 1 ngày cho 10 người đăng kí đầu tiên						      						      ', '2023-06-07', 'IMAGES/pizza_lap_xuong_large.jpg', 8, 1),
+(8, 'Ăn cực ngon với Vie Food', '						      								      								      		Món ăn đa dạng, thực phẩm đạt chỉ tiêu dinh dưỡng cũng như an toàn thực phẩm. Hãy cùng gia đình và người thân đến Vie Food. Chúng tôi sẽ không làm bạn thất vọng.						      						      						      ', '2023-06-07', 'IMAGES/04_large.jpg', 8, 1),
+(9, 'Thực phẩm mới', 'Nhiều thực phẩm mới sẽ ra mắt trong 2020.Các bạn cùng nhau chờ đón nhé.', '2023-06-07', 'IMAGES/09_large.jpg', 8, 1);
 
 --
 -- Chỉ mục cho các bảng đã đổ
